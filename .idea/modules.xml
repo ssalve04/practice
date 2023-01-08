@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/TDDDemo/TDDDemo/src/main/main.iml" filepath="$PROJECT_DIR$/TDDDemo/TDDDemo/src/main/main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/RestAPI Department/src/main/main1.iml" filepath="$PROJECT_DIR$/RestAPI Department/src/main/main1.iml" />
+      <module fileurl="file://$PROJECT_DIR$/microservices-eshop/inventory-service/src/main/main10.iml" filepath="$PROJECT_DIR$/microservices-eshop/inventory-service/src/main/main10.iml" />
+      <module fileurl="file://$PROJECT_DIR$/reststore/src/main/main11.iml" filepath="$PROJECT_DIR$/reststore/src/main/main11.iml" />
+      <module fileurl="file://$PROJECT_DIR$/eshop-microservices/demoinventoryservice/src/main/main12.iml" filepath="$PROJECT_DIR$/eshop-microservices/demoinventoryservice/src/main/main12.iml" />
+      <module fileurl="file://$PROJECT_DIR$/eshop-updated/order-service/src/main/main13.iml" filepath="$PROJECT_DIR$/eshop-updated/order-service/src/main/main13.iml" />
+      <module fileurl="file://$PROJECT_DIR$/eshop-microservices/demoproductservices/src/main/main14.iml" filepath="$PROJECT_DIR$/eshop-microservices/demoproductservices/src/main/main14.iml" />
+      <module fileurl="file://$PROJECT_DIR$/microservices-eshop/order-service/src/main/main15.iml" filepath="$PROJECT_DIR$/microservices-eshop/order-service/src/main/main15.iml" />
+      <module fileurl="file://$PROJECT_DIR$/student/src/main/main2.iml" filepath="$PROJECT_DIR$/student/src/main/main2.iml" />
+      <module fileurl="file://$PROJECT_DIR$/eshop-updated/product-service/src/main/main3.iml" filepath="$PROJECT_DIR$/eshop-updated/product-service/src/main/main3.iml" />
+      <module fileurl="file://$PROJECT_DIR$/tinterview/src/main/main4.iml" filepath="$PROJECT_DIR$/tinterview/src/main/main4.iml" />
+      <module fileurl="file://$PROJECT_DIR$/eshop-updated/inventory-service/src/main/main5.iml" filepath="$PROJECT_DIR$/eshop-updated/inventory-service/src/main/main5.iml" />
+      <module fileurl="file://$PROJECT_DIR$/microservices-eshop/product-service/src/main/main6.iml" filepath="$PROJECT_DIR$/microservices-eshop/product-service/src/main/main6.iml" />
+      <module fileurl="file://$PROJECT_DIR$/eshop-microservices/demoorderservice/src/main/main7.iml" filepath="$PROJECT_DIR$/eshop-microservices/demoorderservice/src/main/main7.iml" />
+      <module fileurl="file://$PROJECT_DIR$/RestAPI/src/main/main8.iml" filepath="$PROJECT_DIR$/RestAPI/src/main/main8.iml" />
+      <module fileurl="file://$PROJECT_DIR$/RESTAPIDemo1/src/main/main9.iml" filepath="$PROJECT_DIR$/RESTAPIDemo1/src/main/main9.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/microservices_project.iml" filepath="$PROJECT_DIR$/.idea/microservices_project.iml" />
+      <module fileurl="file://$PROJECT_DIR$/microservices-eshop/inventory-service/src/test/test.iml" filepath="$PROJECT_DIR$/microservices-eshop/inventory-service/src/test/test.iml" />
+      <module fileurl="file://$PROJECT_DIR$/microservices-eshop/order-service/src/test/test1.iml" filepath="$PROJECT_DIR$/microservices-eshop/order-service/src/test/test1.iml" />
+      <module fileurl="file://$PROJECT_DIR$/RestAPI Department/src/test/test10.iml" filepath="$PROJECT_DIR$/RestAPI Department/src/test/test10.iml" />
+      <module fileurl="file://$PROJECT_DIR$/microservices-eshop/product-service/src/test/test11.iml" filepath="$PROJECT_DIR$/microservices-eshop/product-service/src/test/test11.iml" />
+      <module fileurl="file://$PROJECT_DIR$/TDDDemo/TDDDemo/src/test/test12.iml" filepath="$PROJECT_DIR$/TDDDemo/TDDDemo/src/test/test12.iml" />
+      <module fileurl="file://$PROJECT_DIR$/eshop-microservices/demoorderservice/src/test/test13.iml" filepath="$PROJECT_DIR$/eshop-microservices/demoorderservice/src/test/test13.iml" />
+      <module fileurl="file://$PROJECT_DIR$/RestAPI/src/test/test14.iml" filepath="$PROJECT_DIR$/RestAPI/src/test/test14.iml" />
+      <module fileurl="file://$PROJECT_DIR$/eshop-updated/inventory-service/src/test/test15.iml" filepath="$PROJECT_DIR$/eshop-updated/inventory-service/src/test/test15.iml" />
+      <module fileurl="file://$PROJECT_DIR$/eshop-updated/product-service/src/test/test2.iml" filepath="$PROJECT_DIR$/eshop-updated/product-service/src/test/test2.iml" />
+      <module fileurl="file://$PROJECT_DIR$/student/src/test/test3.iml" filepath="$PROJECT_DIR$/student/src/test/test3.iml" />
+      <module fileurl="file://$PROJECT_DIR$/eshop-microservices/demoproductservices/src/test/test4.iml" filepath="$PROJECT_DIR$/eshop-microservices/demoproductservices/src/test/test4.iml" />
+      <module fileurl="file://$PROJECT_DIR$/RESTAPIDemo1/src/test/test5.iml" filepath="$PROJECT_DIR$/RESTAPIDemo1/src/test/test5.iml" />
+      <module fileurl="file://$PROJECT_DIR$/tinterview/src/test/test6.iml" filepath="$PROJECT_DIR$/tinterview/src/test/test6.iml" />
+      <module fileurl="file://$PROJECT_DIR$/reststore/src/test/test7.iml" filepath="$PROJECT_DIR$/reststore/src/test/test7.iml" />
+      <module fileurl="file://$PROJECT_DIR$/eshop-microservices/demoinventoryservice/src/test/test8.iml" filepath="$PROJECT_DIR$/eshop-microservices/demoinventoryservice/src/test/test8.iml" />
+      <module fileurl="file://$PROJECT_DIR$/eshop-updated/order-service/src/test/test9.iml" filepath="$PROJECT_DIR$/eshop-updated/order-service/src/test/test9.iml" />
+    </modules>
+  </component>
+</project>
