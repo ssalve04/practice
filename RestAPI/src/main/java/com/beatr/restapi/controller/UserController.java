@@ -4,6 +4,7 @@ import com.beatr.restapi.model.Department;
 import com.beatr.restapi.model.User;
 import com.beatr.restapi.model.Users;
 import org.springframework.beans.factory.annotation.Autowired;
+import org.springframework.security.access.prepost.PreAuthorize;
 import org.springframework.stereotype.Controller;
 import org.springframework.web.bind.annotation.*;
 import org.springframework.web.client.RestTemplate;
@@ -29,6 +30,7 @@ public class UserController {
     }
 
     @GetMapping("/")
+    @PreAuthorize("hasAnyAuthority('ROLE_ADMIN')")
     public Users retrieveUser() {
         List<User> list = new ArrayList<>();
         Users users = new Users();
