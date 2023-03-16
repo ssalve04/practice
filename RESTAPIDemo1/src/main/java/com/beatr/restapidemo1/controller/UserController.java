@@ -16,7 +16,7 @@ import java.util.List;
 @RestController
 @RequestMapping("/users")
 public class UserController {
-    // update
+    // updat
     @Autowired
     UserService service;
 
