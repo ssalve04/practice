@@ -1,0 +1,10 @@
+C:\Users\Sam\Documents\microservices_project\full-build-1-30\order-service\src\main\java\com\fullbuild\orderservice\OrderServiceApplication.java
+C:\Users\Sam\Documents\microservices_project\full-build-1-30\order-service\src\main\java\com\fullbuild\orderservice\config\WebClientConfig.java
+C:\Users\Sam\Documents\microservices_project\full-build-1-30\order-service\src\main\java\com\fullbuild\orderservice\model\OrderLineItems.java
+C:\Users\Sam\Documents\microservices_project\full-build-1-30\order-service\src\main\java\com\fullbuild\orderservice\dto\OrderRequest.java
+C:\Users\Sam\Documents\microservices_project\full-build-1-30\order-service\src\main\java\com\fullbuild\orderservice\repository\OrderRepository.java
+C:\Users\Sam\Documents\microservices_project\full-build-1-30\order-service\src\main\java\com\fullbuild\orderservice\controller\OrderController.java
+C:\Users\Sam\Documents\microservices_project\full-build-1-30\order-service\src\main\java\com\fullbuild\orderservice\dto\OrderLineItemsDto.java
+C:\Users\Sam\Documents\microservices_project\full-build-1-30\order-service\src\main\java\com\fullbuild\orderservice\dto\InventoryResponse.java
+C:\Users\Sam\Documents\microservices_project\full-build-1-30\order-service\src\main\java\com\fullbuild\orderservice\model\Order.java
+C:\Users\Sam\Documents\microservices_project\full-build-1-30\order-service\src\main\java\com\fullbuild\orderservice\service\OrderService.java
