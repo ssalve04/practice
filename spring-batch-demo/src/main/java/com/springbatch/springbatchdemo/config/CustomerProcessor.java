@@ -2,7 +2,7 @@ package com.springbatch.springbatchdemo.config;
 
 import com.springbatch.springbatchdemo.entity.Customer;
 import org.springframework.batch.item.ItemProcessor;
-
+//update
 public class CustomerProcessor implements ItemProcessor<Customer, Customer> {
     @Override
     public Customer process(Customer customer) throws Exception {
