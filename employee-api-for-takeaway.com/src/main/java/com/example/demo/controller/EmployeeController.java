@@ -26,7 +26,7 @@ public class EmployeeController {
       return ResponseEntity.status(HttpStatus.CREATED).body(createdEmployee);
     }
 
-    // GET /employees
+    // GET /employees endpoint
     @GetMapping
     public ResponseEntity<List<Employee>> getAllEmployees(){
         List<Employee> employees= employeeService.getAllEmployees();
